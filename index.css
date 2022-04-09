@@ -1,0 +1,12 @@
+.class1{
+    align-content:  center;
+    font-size:large;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 10rem;
+    -moz-box-align: center;
+    vertical-align: middle;
+}
+title{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
